@@ -1,0 +1,127 @@
+  body{
+    background-color: rgb(246, 246, 255);
+    text-align: justify;
+    text-justify: inter-word;
+  }
+  
+  p, tr, th{
+    font-family:'Times New Roman', Times, serif;
+    font-size: larger;   
+  }
+  
+  h1, h2, h3, h4{
+    font-family: sans-serif;
+  }
+  
+  a{
+    font-size: large;
+    font-family: sans-serif;
+    cursor: pointer;
+    text-decoration: none;
+    color: rgb(0, 47, 255);
+  }
+
+  li{
+    font-size: 32px;
+    list-style-type:none;
+  }
+  
+  .container{
+    width: 50%;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    float: left;
+    text-align: justify;
+   
+  }
+  #index, #gas, #falhaeletrica, #manutencao, #ataque, #ataque2{
+    width: 600px;
+    float: right;
+    margin-right: 20%;
+    border-radius: 15px;
+  }
+
+  #ataque{
+    margin-bottom: 50px;
+  }
+
+ 
+  #gas{
+    margin-top: 5%;
+
+  }
+
+  #fotocrise, #fotocausa, #smartgrid{
+    
+    float: right;
+    width: 600px;
+    border-radius: 15px;
+    margin-bottom: 100%;
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+
+  #fotocrise, #fotocausa, #cidadeiluminada{
+    margin-right: 100px;
+  }
+
+  #smartgrid, #smartgrid2, #cidadeiluminada, #redeeletrica, #falhaeletrica, #manutencao, #ataque, #ataque2{
+    margin-right: 100px;
+    margin-left: auto;
+    width: 750px;
+    border-radius: 15px;
+    
+  }
+
+
+  #falhaeletrica{
+    margin-bottom: 50px;
+  }
+
+  #cidadeiluminada{
+    margin-top: 50px;
+    float:right;
+  }
+
+  #smartgrid2, #redeeletrica{
+    margin-left:115px;
+    margin-top: 50px;
+    border-radius: 15px;
+  }
+
+  #fotocausa{
+    margin-top: 100px;
+  }
+
+
+  #solar, #hidraulica, #eolica, #biomassa{
+    width: 300px;
+    border-radius: 15px;
+    margin-left: 75px;
+  }
+
+  td{
+    padding: 20px;
+    text-align: justify;
+  }
+
+  #paginainicial{
+    position: absolute;
+    margin-top: 10px;
+    bottom: 0;
+  
+  }
+
+
+
+  
+  
+    
+   
+    
+  
+    
+  
+  
